@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "HALO",
+  "base_artist": "NOMELON NOLEMON",
+  "createdAt": "2026-02-11T02:09:16.657952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Between The Halo And The Horn",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/01_Between_The_Halo_And_The_Horn_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "04 - Between The Halo And The Horn",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/02_04_-_Between_The_Halo_And_The_Horn_A.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Halo",
+      "artist": "YNW Bslime",
+      "has_synced": false,
+      "path": "select/03_Halo_YNW_Bslime.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Golden Halo",
+      "artist": "Oliver Francis",
+      "has_synced": true,
+      "path": "select/04_Golden_Halo_Oliver_Francis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "HALO",
+      "artist": "Cochise",
+      "has_synced": true,
+      "path": "select/05_HALO_Cochise.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Halo of Blood",
+      "artist": "Children of Bodom",
+      "has_synced": true,
+      "path": "select/06_Halo_of_Blood_Children_of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Put a Spell on You (Halo Mix)",
+      "artist": "Sonique",
+      "has_synced": false,
+      "path": "select/07_I_Put_a_Spell_on_You_(Halo_Mix)_Sonique.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "15 Storey Halo",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/08_15_Storey_Halo_ABC.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "15 Storey Halo",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/09_15_Storey_Halo_ABC.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Halo",
+      "artist": "Airiel",
+      "has_synced": true,
+      "path": "select/10_Halo_Airiel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Halo",
+      "artist": "Atlas Sound",
+      "has_synced": true,
+      "path": "select/11_My_Halo_Atlas_Sound.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Halo",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/12_Halo_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Halo - We Have Band Dub",
+      "artist": "Bloc Party",
+      "has_synced": false,
+      "path": "select/13_Halo_-_We_Have_Band_Dub_Bloc_Party.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "California Halo Blue",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/14_California_Halo_Blue_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Halo",
+      "artist": "Kate Havnevik",
+      "has_synced": true,
+      "path": "select/15_Halo_Kate_Havnevik.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HALO",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/pl_01_HALO_NOMELON_NOLEMON.txt"
+    }
+  ]
+}
